@@ -25,9 +25,14 @@ También utilizando `pip install -r requirements.txt`
 
 ### Proyectos
 
-<img align="left" style="margin-right:20px" height="100" src="mp_Particle/img/out1.gif">
+#### [MediaPipe con Particulas](./mp_Particle/)
 
-[MediaPipe con Particulas](./mp_Particle/)
+<img float="left" style="margin-right:20px" height="100" src="mp_Particle/img/out1.gif"></img>
+
+#### [MediaPipe con Feedback](./mp_Pop)
+
+<img float="left" style="margin-right:20px" height="100" src="mp_Pop/pop.gif"></img>
+
 
 ---
 
